@@ -613,6 +613,17 @@ main {
 
 #projects .port-row .port-item .port-content {
     margin: 20px 10px 10px 10px;
+    font-size: 18px;
+}
+
+#projects .port-row .port-item .port-content span {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#projects .port-row .port-item .port-content a {
+    text-decoration: none;
+    margin-left: 15px;
 }
 
 #projects .port-row .port-item .port-info {
