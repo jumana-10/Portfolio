@@ -626,6 +626,10 @@ main {
     margin-left: 15px;
 }
 
+#projects .port-row .port-item .port-content a:hover {
+    color: #ff7505;
+}
+
 #projects .port-row .port-item .port-info {
     padding: 10px;
     margin-bottom: 10px;
